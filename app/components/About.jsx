@@ -10,4 +10,19 @@ var About = React.createClass({
 
 });
 
+
+/*
+
+var About = () =>{
+	return(
+	return(
+				<h1> about component!</h1>
+			);
+	
+	)
+};
+
+
+*/
+
 module.exports = About;
