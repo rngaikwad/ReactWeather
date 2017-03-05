@@ -6,7 +6,7 @@ var Examples = (props) => {
 
 		return (
 			<div>
-				<h3>Examples</h3>
+				<h3 className="page-title">Examples</h3>
 				<p>Here are a few exaple locations to try out:</p>
 				<ol>
 					<li>
