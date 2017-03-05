@@ -5,7 +5,7 @@ var About =  ( props)  =>{
 	return(
 				<div>
 				<h3> About</h3>
-				<p> Welcome to about component......</p>
+				<p> Welcome to about component!</p>
 				</div>
 			)
 };
